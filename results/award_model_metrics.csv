@@ -1,0 +1,6 @@
+Model,MAE_INR_Cr,RMSE_INR_Cr,MedAE_INR_Cr,R2
+Stacked_Ensemble_RAG,8.64,10.8,7.16,0.9255
+Ridge_Structured_RAG,9.11,11.26,7.09,0.919
+Linear_Claim_Baseline,13.16,17.09,9.39,0.8134
+GradientBoosting_RAG,15.33,20.38,12.4,0.7346
+RandomForest_RAG,15.48,20.9,11.88,0.7208
