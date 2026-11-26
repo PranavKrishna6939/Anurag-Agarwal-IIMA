@@ -1,0 +1,58 @@
+{
+  "n_cases": 60,
+  "n_sectors": 6,
+  "ner": {
+    "total_gold_entities": 1942,
+    "total_extracted_entities": 1682,
+    "micro_precision": 0.9435,
+    "micro_recall": 0.8172,
+    "micro_f1": 0.8758
+  },
+  "clustering": {
+    "embedding_backend": "Dense Semantic LSA (TF-IDF + SVD; SBERT-compatible)",
+    "keyword_instances": 1282,
+    "unique_keywords": 144,
+    "silhouette": 0.3413,
+    "purity": 1.0,
+    "baseline_bow_purity": 0.2192,
+    "purity_lift_pct": 356.23,
+    "ari": 1.0,
+    "nmi": 1.0
+  },
+  "award_estimation": {
+    "best_model": "Stacked_Ensemble_RAG",
+    "best_cv_mae_inr_cr": 8.64,
+    "models": {
+      "Stacked_Ensemble_RAG": {
+        "MAE_INR_Cr": 8.64,
+        "RMSE_INR_Cr": 10.8,
+        "MedAE_INR_Cr": 7.16,
+        "R2": 0.9255
+      },
+      "Ridge_Structured_RAG": {
+        "MAE_INR_Cr": 9.11,
+        "RMSE_INR_Cr": 11.26,
+        "MedAE_INR_Cr": 7.09,
+        "R2": 0.919
+      },
+      "Linear_Claim_Baseline": {
+        "MAE_INR_Cr": 13.16,
+        "RMSE_INR_Cr": 17.09,
+        "MedAE_INR_Cr": 9.39,
+        "R2": 0.8134
+      },
+      "GradientBoosting_RAG": {
+        "MAE_INR_Cr": 15.33,
+        "RMSE_INR_Cr": 20.38,
+        "MedAE_INR_Cr": 12.4,
+        "R2": 0.7346
+      },
+      "RandomForest_RAG": {
+        "MAE_INR_Cr": 15.48,
+        "RMSE_INR_Cr": 20.9,
+        "MedAE_INR_Cr": 11.88,
+        "R2": 0.7208
+      }
+    }
+  }
+}

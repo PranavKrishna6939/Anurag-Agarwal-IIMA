@@ -1,0 +1,1683 @@
+case_id,sector,entity_type,entity_text
+ARB-IND-2023-001,Highways & Roads,CLAIMANT,IRB Infrastructure Developers Ltd.
+ARB-IND-2023-001,Highways & Roads,RESPONDENT,Maharashtra State Road Development Corp.
+ARB-IND-2023-001,Highways & Roads,FORUM,High Court of Madras
+ARB-IND-2023-001,Highways & Roads,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-001,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2023-001,Highways & Roads,CLAIM_AMOUNT_CR,INR 191.91 Crore
+ARB-IND-2023-001,Highways & Roads,COUNTERCLAIM_CR,INR 6.88 Crore
+ARB-IND-2023-001,Highways & Roads,AWARD_AMOUNT_CR,INR 119.87 Crore
+ARB-IND-2023-001,Highways & Roads,INTEREST_RATE,8.0%
+ARB-IND-2023-001,Highways & Roads,DELAY_MONTHS,12 months
+ARB-IND-2023-001,Highways & Roads,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,provisional completion certificate
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2023-001,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2019-002,Railways & Metro,CLAIMANT,Afcons Infrastructure Ltd.
+ARB-IND-2019-002,Railways & Metro,RESPONDENT,Mumbai Metro Rail Corp. (MMRC)
+ARB-IND-2019-002,Railways & Metro,FORUM,Supreme Court of India
+ARB-IND-2019-002,Railways & Metro,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2019-002,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2019-002,Railways & Metro,CLAIM_AMOUNT_CR,INR 174.13 Crore
+ARB-IND-2019-002,Railways & Metro,COUNTERCLAIM_CR,INR 32.66 Crore
+ARB-IND-2019-002,Railways & Metro,AWARD_AMOUNT_CR,INR 90.93 Crore
+ARB-IND-2019-002,Railways & Metro,INTEREST_RATE,9.0%
+ARB-IND-2019-002,Railways & Metro,DELAY_MONTHS,35 months
+ARB-IND-2019-002,Railways & Metro,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,arbitral tribunal award
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,design approval lag
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,elevated viaduct
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,sub-contractor claim
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2019-002,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2020-003,Power & Energy,CLAIMANT,KEC International Ltd.
+ARB-IND-2020-003,Power & Energy,RESPONDENT,Power Grid Corporation of India (PGCIL)
+ARB-IND-2020-003,Power & Energy,FORUM,High Court of Madras
+ARB-IND-2020-003,Power & Energy,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-003,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2020-003,Power & Energy,CLAIM_AMOUNT_CR,INR 95.79 Crore
+ARB-IND-2020-003,Power & Energy,COUNTERCLAIM_CR,INR 7.55 Crore
+ARB-IND-2020-003,Power & Energy,AWARD_AMOUNT_CR,INR 60.72 Crore
+ARB-IND-2020-003,Power & Energy,INTEREST_RATE,9.5%
+ARB-IND-2020-003,Power & Energy,DELAY_MONTHS,15 months
+ARB-IND-2020-003,Power & Energy,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,auxiliary consumption
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,change of scope
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2020-003,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2024-004,Ports & Maritime,CLAIMANT,Adani Ports Terminal JV
+ARB-IND-2024-004,Ports & Maritime,RESPONDENT,Jawaharlal Nehru Port Authority (JNPA)
+ARB-IND-2024-004,Ports & Maritime,FORUM,Supreme Court of India
+ARB-IND-2024-004,Ports & Maritime,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-004,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2024-004,Ports & Maritime,CLAIM_AMOUNT_CR,INR 176.94 Crore
+ARB-IND-2024-004,Ports & Maritime,COUNTERCLAIM_CR,INR 22.26 Crore
+ARB-IND-2024-004,Ports & Maritime,AWARD_AMOUNT_CR,INR 83.59 Crore
+ARB-IND-2024-004,Ports & Maritime,INTEREST_RATE,9.0%
+ARB-IND-2024-004,Ports & Maritime,DELAY_MONTHS,22 months
+ARB-IND-2024-004,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,port access road
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2024-004,Ports & Maritime,DOMAIN_TERM,tidal window restriction
+ARB-IND-2021-005,Aviation & Airports,CLAIMANT,Siemens Mobility Airport Systems
+ARB-IND-2021-005,Aviation & Airports,RESPONDENT,Airports Authority of India (AAI)
+ARB-IND-2021-005,Aviation & Airports,FORUM,High Court of Bombay
+ARB-IND-2021-005,Aviation & Airports,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-005,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2021-005,Aviation & Airports,CLAIM_AMOUNT_CR,INR 92.64 Crore
+ARB-IND-2021-005,Aviation & Airports,COUNTERCLAIM_CR,INR 20.30 Crore
+ARB-IND-2021-005,Aviation & Airports,AWARD_AMOUNT_CR,INR 65.07 Crore
+ARB-IND-2021-005,Aviation & Airports,INTEREST_RATE,10.5%
+ARB-IND-2021-005,Aviation & Airports,DELAY_MONTHS,28 months
+ARB-IND-2021-005,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,airfield ground lighting
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,atc tower modernization
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,revenue share concession
+ARB-IND-2021-005,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2019-006,Water & Urban EPC,CLAIMANT,VA Tech Wabag Ltd.
+ARB-IND-2019-006,Water & Urban EPC,RESPONDENT,Delhi Jal Board (DJB)
+ARB-IND-2019-006,Water & Urban EPC,FORUM,High Court of Delhi
+ARB-IND-2019-006,Water & Urban EPC,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2019-006,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2019-006,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 152.77 Crore
+ARB-IND-2019-006,Water & Urban EPC,COUNTERCLAIM_CR,INR 22.03 Crore
+ARB-IND-2019-006,Water & Urban EPC,AWARD_AMOUNT_CR,INR 104.28 Crore
+ARB-IND-2019-006,Water & Urban EPC,INTEREST_RATE,11.0%
+ARB-IND-2019-006,Water & Urban EPC,DELAY_MONTHS,22 months
+ARB-IND-2019-006,Water & Urban EPC,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,change in law
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,overhead water tank
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,stormwater drainage
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2019-006,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2021-007,Highways & Roads,CLAIMANT,PNC Infratech Ltd.
+ARB-IND-2021-007,Highways & Roads,RESPONDENT,National Highways Authority of India (NHAI)
+ARB-IND-2021-007,Highways & Roads,FORUM,High Court of Karnataka
+ARB-IND-2021-007,Highways & Roads,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-007,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2021-007,Highways & Roads,CLAIM_AMOUNT_CR,INR 231.78 Crore
+ARB-IND-2021-007,Highways & Roads,COUNTERCLAIM_CR,INR 32.50 Crore
+ARB-IND-2021-007,Highways & Roads,AWARD_AMOUNT_CR,INR 133.85 Crore
+ARB-IND-2021-007,Highways & Roads,INTEREST_RATE,9.0%
+ARB-IND-2021-007,Highways & Roads,DELAY_MONTHS,5 months
+ARB-IND-2021-007,Highways & Roads,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,carriageway
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,price adjustment formula
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2021-007,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2021-008,Railways & Metro,CLAIMANT,HCC-Samsung JV
+ARB-IND-2021-008,Railways & Metro,RESPONDENT,Mumbai Metro Rail Corp. (MMRC)
+ARB-IND-2021-008,Railways & Metro,FORUM,Supreme Court of India
+ARB-IND-2021-008,Railways & Metro,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-008,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2021-008,Railways & Metro,CLAIM_AMOUNT_CR,INR 219.34 Crore
+ARB-IND-2021-008,Railways & Metro,COUNTERCLAIM_CR,INR 36.61 Crore
+ARB-IND-2021-008,Railways & Metro,AWARD_AMOUNT_CR,INR 135.44 Crore
+ARB-IND-2021-008,Railways & Metro,INTEREST_RATE,8.0%
+ARB-IND-2021-008,Railways & Metro,DELAY_MONTHS,37 months
+ARB-IND-2021-008,Railways & Metro,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,change in law
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,design approval lag
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,sub-contractor claim
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2021-008,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2021-009,Power & Energy,CLAIMANT,Sterling and Wilson Renewable
+ARB-IND-2021-009,Power & Energy,RESPONDENT,NTPC Ltd.
+ARB-IND-2021-009,Power & Energy,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2021-009,Power & Energy,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-009,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2021-009,Power & Energy,CLAIM_AMOUNT_CR,INR 78.01 Crore
+ARB-IND-2021-009,Power & Energy,COUNTERCLAIM_CR,INR 3.62 Crore
+ARB-IND-2021-009,Power & Energy,AWARD_AMOUNT_CR,INR 42.09 Crore
+ARB-IND-2021-009,Power & Energy,INTEREST_RATE,11.0%
+ARB-IND-2021-009,Power & Energy,DELAY_MONTHS,11 months
+ARB-IND-2021-009,Power & Energy,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,change of scope
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,commissioning milestone
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,thermal power plant
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2021-009,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2017-010,Ports & Maritime,CLAIMANT,Simplex Infrastructures Ltd.
+ARB-IND-2017-010,Ports & Maritime,RESPONDENT,Jawaharlal Nehru Port Authority (JNPA)
+ARB-IND-2017-010,Ports & Maritime,FORUM,High Court of Delhi
+ARB-IND-2017-010,Ports & Maritime,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-010,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2017-010,Ports & Maritime,CLAIM_AMOUNT_CR,INR 224.22 Crore
+ARB-IND-2017-010,Ports & Maritime,COUNTERCLAIM_CR,INR 50.35 Crore
+ARB-IND-2017-010,Ports & Maritime,AWARD_AMOUNT_CR,INR 113.82 Crore
+ARB-IND-2017-010,Ports & Maritime,INTEREST_RATE,8.0%
+ARB-IND-2017-010,Ports & Maritime,DELAY_MONTHS,31 months
+ARB-IND-2017-010,Ports & Maritime,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,concession agreement termination
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,marine piling
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2017-010,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2023-011,Aviation & Airports,CLAIMANT,Siemens Mobility Airport Systems
+ARB-IND-2023-011,Aviation & Airports,RESPONDENT,Airports Authority of India (AAI)
+ARB-IND-2023-011,Aviation & Airports,FORUM,Supreme Court of India
+ARB-IND-2023-011,Aviation & Airports,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-011,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2023-011,Aviation & Airports,CLAIM_AMOUNT_CR,INR 152.25 Crore
+ARB-IND-2023-011,Aviation & Airports,COUNTERCLAIM_CR,INR 31.33 Crore
+ARB-IND-2023-011,Aviation & Airports,AWARD_AMOUNT_CR,INR 77.77 Crore
+ARB-IND-2023-011,Aviation & Airports,INTEREST_RATE,11.0%
+ARB-IND-2023-011,Aviation & Airports,DELAY_MONTHS,12 months
+ARB-IND-2023-011,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,airfield ground lighting
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,force majeure
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,hvac chiller package
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,pandemic force majeure
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2023-011,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2023-012,Water & Urban EPC,CLAIMANT,Megha Engineering & Infrastructures
+ARB-IND-2023-012,Water & Urban EPC,RESPONDENT,Chennai Metro Water Supply
+ARB-IND-2023-012,Water & Urban EPC,FORUM,High Court of Karnataka
+ARB-IND-2023-012,Water & Urban EPC,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-012,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2023-012,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 98.74 Crore
+ARB-IND-2023-012,Water & Urban EPC,COUNTERCLAIM_CR,INR 2.42 Crore
+ARB-IND-2023-012,Water & Urban EPC,AWARD_AMOUNT_CR,INR 52.39 Crore
+ARB-IND-2023-012,Water & Urban EPC,INTEREST_RATE,10.5%
+ARB-IND-2023-012,Water & Urban EPC,DELAY_MONTHS,13 months
+ARB-IND-2023-012,Water & Urban EPC,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,civil structural audit
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,pipeline laying
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,raw water intake
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,retention money release
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,stormwater drainage
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2023-012,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2017-013,Highways & Roads,CLAIMANT,Dilip Buildcon Ltd.
+ARB-IND-2017-013,Highways & Roads,RESPONDENT,Maharashtra State Road Development Corp.
+ARB-IND-2017-013,Highways & Roads,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2017-013,Highways & Roads,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-013,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2017-013,Highways & Roads,CLAIM_AMOUNT_CR,INR 167.36 Crore
+ARB-IND-2017-013,Highways & Roads,COUNTERCLAIM_CR,INR 13.84 Crore
+ARB-IND-2017-013,Highways & Roads,AWARD_AMOUNT_CR,INR 75.04 Crore
+ARB-IND-2017-013,Highways & Roads,INTEREST_RATE,10.5%
+ARB-IND-2017-013,Highways & Roads,DELAY_MONTHS,5 months
+ARB-IND-2017-013,Highways & Roads,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,bitumen escalation
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,carriageway
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,epc highway
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,price adjustment formula
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2017-013,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2017-014,Railways & Metro,CLAIMANT,Afcons Infrastructure Ltd.
+ARB-IND-2017-014,Railways & Metro,RESPONDENT,Dedicated Freight Corridor Corp. (DFCCIL)
+ARB-IND-2017-014,Railways & Metro,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2017-014,Railways & Metro,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-014,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2017-014,Railways & Metro,CLAIM_AMOUNT_CR,INR 59.21 Crore
+ARB-IND-2017-014,Railways & Metro,COUNTERCLAIM_CR,INR 0.95 Crore
+ARB-IND-2017-014,Railways & Metro,AWARD_AMOUNT_CR,INR 26.51 Crore
+ARB-IND-2017-014,Railways & Metro,INTEREST_RATE,10.5%
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,sub-contractor claim
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2017-014,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2018-015,Power & Energy,CLAIMANT,Tata Power Solar Systems
+ARB-IND-2018-015,Power & Energy,RESPONDENT,Solar Energy Corp. of India (SECI)
+ARB-IND-2018-015,Power & Energy,FORUM,Supreme Court of India
+ARB-IND-2018-015,Power & Energy,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-015,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2018-015,Power & Energy,CLAIM_AMOUNT_CR,INR 63.85 Crore
+ARB-IND-2018-015,Power & Energy,COUNTERCLAIM_CR,INR 11.38 Crore
+ARB-IND-2018-015,Power & Energy,AWARD_AMOUNT_CR,INR 42.13 Crore
+ARB-IND-2018-015,Power & Energy,INTEREST_RATE,9.0%
+ARB-IND-2018-015,Power & Energy,DELAY_MONTHS,34 months
+ARB-IND-2018-015,Power & Energy,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,change of scope
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,commissioning milestone
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,flue gas desulfurization
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2018-015,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2017-016,Ports & Maritime,CLAIMANT,Simplex Infrastructures Ltd.
+ARB-IND-2017-016,Ports & Maritime,RESPONDENT,Chennai Port Authority
+ARB-IND-2017-016,Ports & Maritime,FORUM,High Court of Madras
+ARB-IND-2017-016,Ports & Maritime,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-016,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2017-016,Ports & Maritime,CLAIM_AMOUNT_CR,INR 117.86 Crore
+ARB-IND-2017-016,Ports & Maritime,COUNTERCLAIM_CR,INR 23.17 Crore
+ARB-IND-2017-016,Ports & Maritime,AWARD_AMOUNT_CR,INR 57.34 Crore
+ARB-IND-2017-016,Ports & Maritime,INTEREST_RATE,10.0%
+ARB-IND-2017-016,Ports & Maritime,DELAY_MONTHS,23 months
+ARB-IND-2017-016,Ports & Maritime,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,marine piling
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2017-016,Ports & Maritime,DOMAIN_TERM,vessel turnaround
+ARB-IND-2022-017,Aviation & Airports,CLAIMANT,Shapoorji Pallonji Engineering
+ARB-IND-2022-017,Aviation & Airports,RESPONDENT,Airports Authority of India (AAI)
+ARB-IND-2022-017,Aviation & Airports,FORUM,High Court of Karnataka
+ARB-IND-2022-017,Aviation & Airports,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-017,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2022-017,Aviation & Airports,CLAIM_AMOUNT_CR,INR 27.86 Crore
+ARB-IND-2022-017,Aviation & Airports,COUNTERCLAIM_CR,INR 4.69 Crore
+ARB-IND-2022-017,Aviation & Airports,AWARD_AMOUNT_CR,INR 2.50 Crore
+ARB-IND-2022-017,Aviation & Airports,INTEREST_RATE,11.0%
+ARB-IND-2022-017,Aviation & Airports,DELAY_MONTHS,21 months
+ARB-IND-2022-017,Aviation & Airports,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,atc tower modernization
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,force majeure
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,pandemic force majeure
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,revenue share concession
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2022-017,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2020-018,Water & Urban EPC,CLAIMANT,SPML Infra Ltd.
+ARB-IND-2020-018,Water & Urban EPC,RESPONDENT,UP Jal Nigam
+ARB-IND-2020-018,Water & Urban EPC,FORUM,High Court of Delhi
+ARB-IND-2020-018,Water & Urban EPC,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-018,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2020-018,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 44.11 Crore
+ARB-IND-2020-018,Water & Urban EPC,COUNTERCLAIM_CR,INR 3.61 Crore
+ARB-IND-2020-018,Water & Urban EPC,AWARD_AMOUNT_CR,INR 32.34 Crore
+ARB-IND-2020-018,Water & Urban EPC,INTEREST_RATE,9.0%
+ARB-IND-2020-018,Water & Urban EPC,DELAY_MONTHS,16 months
+ARB-IND-2020-018,Water & Urban EPC,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,change of scope
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,raw water intake
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,retention money release
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,smart water metering
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2020-018,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2020-019,Highways & Roads,CLAIMANT,PNC Infratech Ltd.
+ARB-IND-2020-019,Highways & Roads,RESPONDENT,Ministry of Road Transport and Highways (MoRTH)
+ARB-IND-2020-019,Highways & Roads,FORUM,High Court of Madras
+ARB-IND-2020-019,Highways & Roads,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-019,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2020-019,Highways & Roads,CLAIM_AMOUNT_CR,INR 241.40 Crore
+ARB-IND-2020-019,Highways & Roads,COUNTERCLAIM_CR,INR 1.68 Crore
+ARB-IND-2020-019,Highways & Roads,AWARD_AMOUNT_CR,INR 150.86 Crore
+ARB-IND-2020-019,Highways & Roads,INTEREST_RATE,10.5%
+ARB-IND-2020-019,Highways & Roads,DELAY_MONTHS,29 months
+ARB-IND-2020-019,Highways & Roads,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,epc highway
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2020-019,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2022-020,Railways & Metro,CLAIMANT,Larsen & Toubro Heavy Civil
+ARB-IND-2022-020,Railways & Metro,RESPONDENT,Mumbai Metro Rail Corp. (MMRC)
+ARB-IND-2022-020,Railways & Metro,FORUM,High Court of Delhi
+ARB-IND-2022-020,Railways & Metro,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-020,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2022-020,Railways & Metro,CLAIM_AMOUNT_CR,INR 251.25 Crore
+ARB-IND-2022-020,Railways & Metro,COUNTERCLAIM_CR,INR 34.45 Crore
+ARB-IND-2022-020,Railways & Metro,AWARD_AMOUNT_CR,INR 111.67 Crore
+ARB-IND-2022-020,Railways & Metro,INTEREST_RATE,9.5%
+ARB-IND-2022-020,Railways & Metro,DELAY_MONTHS,29 months
+ARB-IND-2022-020,Railways & Metro,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,commissioner of railway safety
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2022-020,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2021-021,Power & Energy,CLAIMANT,Tata Power Solar Systems
+ARB-IND-2021-021,Power & Energy,RESPONDENT,Solar Energy Corp. of India (SECI)
+ARB-IND-2021-021,Power & Energy,FORUM,Supreme Court of India
+ARB-IND-2021-021,Power & Energy,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-021,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2021-021,Power & Energy,CLAIM_AMOUNT_CR,INR 216.09 Crore
+ARB-IND-2021-021,Power & Energy,COUNTERCLAIM_CR,INR 14.38 Crore
+ARB-IND-2021-021,Power & Energy,AWARD_AMOUNT_CR,INR 149.25 Crore
+ARB-IND-2021-021,Power & Energy,INTEREST_RATE,8.0%
+ARB-IND-2021-021,Power & Energy,DELAY_MONTHS,25 months
+ARB-IND-2021-021,Power & Energy,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,flue gas desulfurization
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,transformer failure
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2021-021,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2018-022,Ports & Maritime,CLAIMANT,DP World Nhava Sheva
+ARB-IND-2018-022,Ports & Maritime,RESPONDENT,Deendayal Port Authority
+ARB-IND-2018-022,Ports & Maritime,FORUM,High Court of Delhi
+ARB-IND-2018-022,Ports & Maritime,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-022,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2018-022,Ports & Maritime,CLAIM_AMOUNT_CR,INR 33.71 Crore
+ARB-IND-2018-022,Ports & Maritime,COUNTERCLAIM_CR,INR 9.05 Crore
+ARB-IND-2018-022,Ports & Maritime,AWARD_AMOUNT_CR,INR 10.92 Crore
+ARB-IND-2018-022,Ports & Maritime,INTEREST_RATE,10.0%
+ARB-IND-2018-022,Ports & Maritime,DELAY_MONTHS,16 months
+ARB-IND-2018-022,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,cargo handling crane
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,concession agreement termination
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,marine piling
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2018-022,Ports & Maritime,DOMAIN_TERM,royalty revenue share
+ARB-IND-2018-023,Aviation & Airports,CLAIMANT,Nagarjuna Construction Co.
+ARB-IND-2018-023,Aviation & Airports,RESPONDENT,Bangalore International Airport Ltd.
+ARB-IND-2018-023,Aviation & Airports,FORUM,High Court of Bombay
+ARB-IND-2018-023,Aviation & Airports,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-023,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2018-023,Aviation & Airports,CLAIM_AMOUNT_CR,INR 134.62 Crore
+ARB-IND-2018-023,Aviation & Airports,COUNTERCLAIM_CR,INR 16.32 Crore
+ARB-IND-2018-023,Aviation & Airports,AWARD_AMOUNT_CR,INR 67.68 Crore
+ARB-IND-2018-023,Aviation & Airports,INTEREST_RATE,8.0%
+ARB-IND-2018-023,Aviation & Airports,DELAY_MONTHS,16 months
+ARB-IND-2018-023,Aviation & Airports,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,atc tower modernization
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,change of scope
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,force majeure
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,hvac chiller package
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,pandemic force majeure
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,passenger boarding gate
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2018-023,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2023-024,Water & Urban EPC,CLAIMANT,VA Tech Wabag Ltd.
+ARB-IND-2023-024,Water & Urban EPC,RESPONDENT,Brihanmumbai Municipal Corporation (BMC)
+ARB-IND-2023-024,Water & Urban EPC,FORUM,Supreme Court of India
+ARB-IND-2023-024,Water & Urban EPC,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-024,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2023-024,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 154.59 Crore
+ARB-IND-2023-024,Water & Urban EPC,COUNTERCLAIM_CR,INR 29.57 Crore
+ARB-IND-2023-024,Water & Urban EPC,AWARD_AMOUNT_CR,INR 95.83 Crore
+ARB-IND-2023-024,Water & Urban EPC,INTEREST_RATE,9.0%
+ARB-IND-2023-024,Water & Urban EPC,DELAY_MONTHS,25 months
+ARB-IND-2023-024,Water & Urban EPC,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,change in law
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,overhead water tank
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,pipeline laying
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,retention money release
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,stormwater drainage
+ARB-IND-2023-024,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2023-025,Highways & Roads,CLAIMANT,Ashoka Buildcon Ltd.
+ARB-IND-2023-025,Highways & Roads,RESPONDENT,National Highways Authority of India (NHAI)
+ARB-IND-2023-025,Highways & Roads,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2023-025,Highways & Roads,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-025,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2023-025,Highways & Roads,CLAIM_AMOUNT_CR,INR 92.21 Crore
+ARB-IND-2023-025,Highways & Roads,COUNTERCLAIM_CR,INR 9.33 Crore
+ARB-IND-2023-025,Highways & Roads,AWARD_AMOUNT_CR,INR 54.22 Crore
+ARB-IND-2023-025,Highways & Roads,INTEREST_RATE,12.0%
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,bitumen escalation
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,carriageway
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,provisional completion certificate
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2023-025,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2024-026,Railways & Metro,CLAIMANT,Afcons Infrastructure Ltd.
+ARB-IND-2024-026,Railways & Metro,RESPONDENT,Delhi Metro Rail Corporation (DMRC)
+ARB-IND-2024-026,Railways & Metro,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2024-026,Railways & Metro,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-026,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2024-026,Railways & Metro,CLAIM_AMOUNT_CR,INR 205.78 Crore
+ARB-IND-2024-026,Railways & Metro,COUNTERCLAIM_CR,INR 35.83 Crore
+ARB-IND-2024-026,Railways & Metro,AWARD_AMOUNT_CR,INR 120.82 Crore
+ARB-IND-2024-026,Railways & Metro,INTEREST_RATE,8.0%
+ARB-IND-2024-026,Railways & Metro,DELAY_MONTHS,19 months
+ARB-IND-2024-026,Railways & Metro,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,change in law
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,commissioner of railway safety
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,design approval lag
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2024-026,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2017-027,Power & Energy,CLAIMANT,Tata Power Solar Systems
+ARB-IND-2017-027,Power & Energy,RESPONDENT,Damodar Valley Corporation (DVC)
+ARB-IND-2017-027,Power & Energy,FORUM,Supreme Court of India
+ARB-IND-2017-027,Power & Energy,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-027,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2017-027,Power & Energy,CLAIM_AMOUNT_CR,INR 271.31 Crore
+ARB-IND-2017-027,Power & Energy,COUNTERCLAIM_CR,INR 13.56 Crore
+ARB-IND-2017-027,Power & Energy,AWARD_AMOUNT_CR,INR 122.27 Crore
+ARB-IND-2017-027,Power & Energy,INTEREST_RATE,9.5%
+ARB-IND-2017-027,Power & Energy,DELAY_MONTHS,30 months
+ARB-IND-2017-027,Power & Energy,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,auxiliary consumption
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,transformer failure
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2017-027,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2021-028,Ports & Maritime,CLAIMANT,Van Oord India Dredging
+ARB-IND-2021-028,Ports & Maritime,RESPONDENT,Deendayal Port Authority
+ARB-IND-2021-028,Ports & Maritime,FORUM,High Court of Madras
+ARB-IND-2021-028,Ports & Maritime,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2021-028,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2021-028,Ports & Maritime,CLAIM_AMOUNT_CR,INR 152.01 Crore
+ARB-IND-2021-028,Ports & Maritime,COUNTERCLAIM_CR,INR 8.37 Crore
+ARB-IND-2021-028,Ports & Maritime,AWARD_AMOUNT_CR,INR 96.64 Crore
+ARB-IND-2021-028,Ports & Maritime,INTEREST_RATE,9.5%
+ARB-IND-2021-028,Ports & Maritime,DELAY_MONTHS,19 months
+ARB-IND-2021-028,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,cargo handling crane
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,port access road
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,royalty revenue share
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,tidal window restriction
+ARB-IND-2021-028,Ports & Maritime,DOMAIN_TERM,vessel turnaround
+ARB-IND-2024-029,Aviation & Airports,CLAIMANT,Shapoorji Pallonji Engineering
+ARB-IND-2024-029,Aviation & Airports,RESPONDENT,Bangalore International Airport Ltd.
+ARB-IND-2024-029,Aviation & Airports,FORUM,High Court of Bombay
+ARB-IND-2024-029,Aviation & Airports,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-029,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2024-029,Aviation & Airports,CLAIM_AMOUNT_CR,INR 216.99 Crore
+ARB-IND-2024-029,Aviation & Airports,COUNTERCLAIM_CR,INR 18.50 Crore
+ARB-IND-2024-029,Aviation & Airports,AWARD_AMOUNT_CR,INR 77.05 Crore
+ARB-IND-2024-029,Aviation & Airports,INTEREST_RATE,12.0%
+ARB-IND-2024-029,Aviation & Airports,DELAY_MONTHS,28 months
+ARB-IND-2024-029,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,airfield ground lighting
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,force majeure
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,hvac chiller package
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,pandemic force majeure
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2024-029,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2022-030,Water & Urban EPC,CLAIMANT,VA Tech Wabag Ltd.
+ARB-IND-2022-030,Water & Urban EPC,RESPONDENT,Brihanmumbai Municipal Corporation (BMC)
+ARB-IND-2022-030,Water & Urban EPC,FORUM,High Court of Bombay
+ARB-IND-2022-030,Water & Urban EPC,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-030,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2022-030,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 156.21 Crore
+ARB-IND-2022-030,Water & Urban EPC,COUNTERCLAIM_CR,INR 10.71 Crore
+ARB-IND-2022-030,Water & Urban EPC,AWARD_AMOUNT_CR,INR 77.26 Crore
+ARB-IND-2022-030,Water & Urban EPC,INTEREST_RATE,12.0%
+ARB-IND-2022-030,Water & Urban EPC,DELAY_MONTHS,26 months
+ARB-IND-2022-030,Water & Urban EPC,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,civil structural audit
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,overhead water tank
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2022-030,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2020-031,Highways & Roads,CLAIMANT,PNC Infratech Ltd.
+ARB-IND-2020-031,Highways & Roads,RESPONDENT,Ministry of Road Transport and Highways (MoRTH)
+ARB-IND-2020-031,Highways & Roads,FORUM,High Court of Delhi
+ARB-IND-2020-031,Highways & Roads,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-031,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2020-031,Highways & Roads,CLAIM_AMOUNT_CR,INR 154.67 Crore
+ARB-IND-2020-031,Highways & Roads,COUNTERCLAIM_CR,INR 20.30 Crore
+ARB-IND-2020-031,Highways & Roads,AWARD_AMOUNT_CR,INR 80.08 Crore
+ARB-IND-2020-031,Highways & Roads,INTEREST_RATE,9.0%
+ARB-IND-2020-031,Highways & Roads,DELAY_MONTHS,30 months
+ARB-IND-2020-031,Highways & Roads,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,bitumen escalation
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,epc highway
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,price adjustment formula
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2020-031,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2022-032,Railways & Metro,CLAIMANT,NCC Ltd.
+ARB-IND-2022-032,Railways & Metro,RESPONDENT,Dedicated Freight Corridor Corp. (DFCCIL)
+ARB-IND-2022-032,Railways & Metro,FORUM,High Court of Karnataka
+ARB-IND-2022-032,Railways & Metro,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-032,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2022-032,Railways & Metro,CLAIM_AMOUNT_CR,INR 209.92 Crore
+ARB-IND-2022-032,Railways & Metro,COUNTERCLAIM_CR,INR 39.86 Crore
+ARB-IND-2022-032,Railways & Metro,AWARD_AMOUNT_CR,INR 115.08 Crore
+ARB-IND-2022-032,Railways & Metro,INTEREST_RATE,10.0%
+ARB-IND-2022-032,Railways & Metro,DELAY_MONTHS,6 months
+ARB-IND-2022-032,Railways & Metro,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,change of scope
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,design approval lag
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,elevated viaduct
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2022-032,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2017-033,Power & Energy,CLAIMANT,BHEL Industrial Systems
+ARB-IND-2017-033,Power & Energy,RESPONDENT,Damodar Valley Corporation (DVC)
+ARB-IND-2017-033,Power & Energy,FORUM,High Court of Karnataka
+ARB-IND-2017-033,Power & Energy,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-033,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2017-033,Power & Energy,CLAIM_AMOUNT_CR,INR 124.90 Crore
+ARB-IND-2017-033,Power & Energy,COUNTERCLAIM_CR,INR 23.36 Crore
+ARB-IND-2017-033,Power & Energy,AWARD_AMOUNT_CR,INR 86.98 Crore
+ARB-IND-2017-033,Power & Energy,INTEREST_RATE,9.0%
+ARB-IND-2017-033,Power & Energy,DELAY_MONTHS,36 months
+ARB-IND-2017-033,Power & Energy,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,auxiliary consumption
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,change of scope
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,commissioning milestone
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,flue gas desulfurization
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,thermal power plant
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2017-033,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2022-034,Ports & Maritime,CLAIMANT,Simplex Infrastructures Ltd.
+ARB-IND-2022-034,Ports & Maritime,RESPONDENT,Chennai Port Authority
+ARB-IND-2022-034,Ports & Maritime,FORUM,High Court of Karnataka
+ARB-IND-2022-034,Ports & Maritime,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-034,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2022-034,Ports & Maritime,CLAIM_AMOUNT_CR,INR 100.16 Crore
+ARB-IND-2022-034,Ports & Maritime,COUNTERCLAIM_CR,INR 27.43 Crore
+ARB-IND-2022-034,Ports & Maritime,AWARD_AMOUNT_CR,INR 56.52 Crore
+ARB-IND-2022-034,Ports & Maritime,INTEREST_RATE,9.0%
+ARB-IND-2022-034,Ports & Maritime,DELAY_MONTHS,36 months
+ARB-IND-2022-034,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,cargo handling crane
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,marine piling
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2022-034,Ports & Maritime,DOMAIN_TERM,royalty revenue share
+ARB-IND-2018-035,Aviation & Airports,CLAIMANT,GMR Airports Infrastructure
+ARB-IND-2018-035,Aviation & Airports,RESPONDENT,Mumbai International Airport Ltd.
+ARB-IND-2018-035,Aviation & Airports,FORUM,Supreme Court of India
+ARB-IND-2018-035,Aviation & Airports,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-035,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2018-035,Aviation & Airports,CLAIM_AMOUNT_CR,INR 55.02 Crore
+ARB-IND-2018-035,Aviation & Airports,COUNTERCLAIM_CR,INR 1.07 Crore
+ARB-IND-2018-035,Aviation & Airports,AWARD_AMOUNT_CR,INR 35.63 Crore
+ARB-IND-2018-035,Aviation & Airports,INTEREST_RATE,9.5%
+ARB-IND-2018-035,Aviation & Airports,DELAY_MONTHS,5 months
+ARB-IND-2018-035,Aviation & Airports,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,airfield ground lighting
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,airside access pass
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,change of scope
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,hvac chiller package
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,passenger boarding gate
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,revenue share concession
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2018-035,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2019-036,Water & Urban EPC,CLAIMANT,VA Tech Wabag Ltd.
+ARB-IND-2019-036,Water & Urban EPC,RESPONDENT,Delhi Jal Board (DJB)
+ARB-IND-2019-036,Water & Urban EPC,FORUM,Supreme Court of India
+ARB-IND-2019-036,Water & Urban EPC,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2019-036,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2019-036,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 145.99 Crore
+ARB-IND-2019-036,Water & Urban EPC,COUNTERCLAIM_CR,INR 30.61 Crore
+ARB-IND-2019-036,Water & Urban EPC,AWARD_AMOUNT_CR,INR 68.62 Crore
+ARB-IND-2019-036,Water & Urban EPC,INTEREST_RATE,11.0%
+ARB-IND-2019-036,Water & Urban EPC,DELAY_MONTHS,31 months
+ARB-IND-2019-036,Water & Urban EPC,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,smart water metering
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2019-036,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2022-037,Highways & Roads,CLAIMANT,IRB Infrastructure Developers Ltd.
+ARB-IND-2022-037,Highways & Roads,RESPONDENT,National Highways Authority of India (NHAI)
+ARB-IND-2022-037,Highways & Roads,FORUM,Supreme Court of India
+ARB-IND-2022-037,Highways & Roads,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-037,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2022-037,Highways & Roads,CLAIM_AMOUNT_CR,INR 92.93 Crore
+ARB-IND-2022-037,Highways & Roads,COUNTERCLAIM_CR,INR 9.57 Crore
+ARB-IND-2022-037,Highways & Roads,AWARD_AMOUNT_CR,INR 57.98 Crore
+ARB-IND-2022-037,Highways & Roads,INTEREST_RATE,11.0%
+ARB-IND-2022-037,Highways & Roads,DELAY_MONTHS,17 months
+ARB-IND-2022-037,Highways & Roads,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,change in law
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2022-037,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2017-038,Railways & Metro,CLAIMANT,Afcons Infrastructure Ltd.
+ARB-IND-2017-038,Railways & Metro,RESPONDENT,Mumbai Metro Rail Corp. (MMRC)
+ARB-IND-2017-038,Railways & Metro,FORUM,Supreme Court of India
+ARB-IND-2017-038,Railways & Metro,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-038,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2017-038,Railways & Metro,CLAIM_AMOUNT_CR,INR 58.60 Crore
+ARB-IND-2017-038,Railways & Metro,COUNTERCLAIM_CR,INR 12.44 Crore
+ARB-IND-2017-038,Railways & Metro,AWARD_AMOUNT_CR,INR 29.29 Crore
+ARB-IND-2017-038,Railways & Metro,INTEREST_RATE,10.5%
+ARB-IND-2017-038,Railways & Metro,DELAY_MONTHS,41 months
+ARB-IND-2017-038,Railways & Metro,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,arbitral tribunal award
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,change of scope
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,elevated viaduct
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2017-038,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2017-039,Power & Energy,CLAIMANT,Tata Power Solar Systems
+ARB-IND-2017-039,Power & Energy,RESPONDENT,Damodar Valley Corporation (DVC)
+ARB-IND-2017-039,Power & Energy,FORUM,High Court of Delhi
+ARB-IND-2017-039,Power & Energy,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-039,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2017-039,Power & Energy,CLAIM_AMOUNT_CR,INR 93.82 Crore
+ARB-IND-2017-039,Power & Energy,COUNTERCLAIM_CR,INR 8.42 Crore
+ARB-IND-2017-039,Power & Energy,AWARD_AMOUNT_CR,INR 35.08 Crore
+ARB-IND-2017-039,Power & Energy,INTEREST_RATE,9.5%
+ARB-IND-2017-039,Power & Energy,DELAY_MONTHS,8 months
+ARB-IND-2017-039,Power & Energy,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,auxiliary consumption
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,cerc regulatory order
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,performance bank guarantee
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2017-039,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2020-040,Ports & Maritime,CLAIMANT,Simplex Infrastructures Ltd.
+ARB-IND-2020-040,Ports & Maritime,RESPONDENT,Jawaharlal Nehru Port Authority (JNPA)
+ARB-IND-2020-040,Ports & Maritime,FORUM,High Court of Karnataka
+ARB-IND-2020-040,Ports & Maritime,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-040,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2020-040,Ports & Maritime,CLAIM_AMOUNT_CR,INR 133.67 Crore
+ARB-IND-2020-040,Ports & Maritime,COUNTERCLAIM_CR,INR 4.79 Crore
+ARB-IND-2020-040,Ports & Maritime,AWARD_AMOUNT_CR,INR 75.78 Crore
+ARB-IND-2020-040,Ports & Maritime,INTEREST_RATE,12.0%
+ARB-IND-2020-040,Ports & Maritime,DELAY_MONTHS,15 months
+ARB-IND-2020-040,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,cargo handling crane
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,concession agreement termination
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,port access road
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,royalty revenue share
+ARB-IND-2020-040,Ports & Maritime,DOMAIN_TERM,tidal window restriction
+ARB-IND-2023-041,Aviation & Airports,CLAIMANT,Siemens Mobility Airport Systems
+ARB-IND-2023-041,Aviation & Airports,RESPONDENT,Airports Authority of India (AAI)
+ARB-IND-2023-041,Aviation & Airports,FORUM,High Court of Karnataka
+ARB-IND-2023-041,Aviation & Airports,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-041,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2023-041,Aviation & Airports,CLAIM_AMOUNT_CR,INR 75.20 Crore
+ARB-IND-2023-041,Aviation & Airports,COUNTERCLAIM_CR,INR 1.11 Crore
+ARB-IND-2023-041,Aviation & Airports,AWARD_AMOUNT_CR,INR 36.10 Crore
+ARB-IND-2023-041,Aviation & Airports,INTEREST_RATE,11.0%
+ARB-IND-2023-041,Aviation & Airports,DELAY_MONTHS,25 months
+ARB-IND-2023-041,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2023-041,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2024-042,Water & Urban EPC,CLAIMANT,VA Tech Wabag Ltd.
+ARB-IND-2024-042,Water & Urban EPC,RESPONDENT,Brihanmumbai Municipal Corporation (BMC)
+ARB-IND-2024-042,Water & Urban EPC,FORUM,High Court of Bombay
+ARB-IND-2024-042,Water & Urban EPC,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-042,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2024-042,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 174.17 Crore
+ARB-IND-2024-042,Water & Urban EPC,COUNTERCLAIM_CR,INR 18.26 Crore
+ARB-IND-2024-042,Water & Urban EPC,AWARD_AMOUNT_CR,INR 98.94 Crore
+ARB-IND-2024-042,Water & Urban EPC,INTEREST_RATE,11.0%
+ARB-IND-2024-042,Water & Urban EPC,DELAY_MONTHS,35 months
+ARB-IND-2024-042,Water & Urban EPC,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,civil structural audit
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,smart water metering
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2024-042,Water & Urban EPC,DOMAIN_TERM,water desalination unit
+ARB-IND-2018-043,Highways & Roads,CLAIMANT,Ashoka Buildcon Ltd.
+ARB-IND-2018-043,Highways & Roads,RESPONDENT,Ministry of Road Transport and Highways (MoRTH)
+ARB-IND-2018-043,Highways & Roads,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2018-043,Highways & Roads,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-043,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2018-043,Highways & Roads,CLAIM_AMOUNT_CR,INR 66.42 Crore
+ARB-IND-2018-043,Highways & Roads,COUNTERCLAIM_CR,INR 7.53 Crore
+ARB-IND-2018-043,Highways & Roads,AWARD_AMOUNT_CR,INR 45.01 Crore
+ARB-IND-2018-043,Highways & Roads,INTEREST_RATE,9.0%
+ARB-IND-2018-043,Highways & Roads,DELAY_MONTHS,26 months
+ARB-IND-2018-043,Highways & Roads,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,bitumen escalation
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,nhai concession
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,price adjustment formula
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,provisional completion certificate
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2018-043,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2024-044,Railways & Metro,CLAIMANT,HCC-Samsung JV
+ARB-IND-2024-044,Railways & Metro,RESPONDENT,Delhi Metro Rail Corporation (DMRC)
+ARB-IND-2024-044,Railways & Metro,FORUM,High Court of Karnataka
+ARB-IND-2024-044,Railways & Metro,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-044,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2024-044,Railways & Metro,CLAIM_AMOUNT_CR,INR 201.05 Crore
+ARB-IND-2024-044,Railways & Metro,COUNTERCLAIM_CR,INR 17.49 Crore
+ARB-IND-2024-044,Railways & Metro,AWARD_AMOUNT_CR,INR 86.52 Crore
+ARB-IND-2024-044,Railways & Metro,INTEREST_RATE,9.5%
+ARB-IND-2024-044,Railways & Metro,DELAY_MONTHS,32 months
+ARB-IND-2024-044,Railways & Metro,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,design approval lag
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,structural girder
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,sub-contractor claim
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2024-044,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2023-045,Power & Energy,CLAIMANT,BHEL Industrial Systems
+ARB-IND-2023-045,Power & Energy,RESPONDENT,NTPC Ltd.
+ARB-IND-2023-045,Power & Energy,FORUM,High Court of Karnataka
+ARB-IND-2023-045,Power & Energy,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-045,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2023-045,Power & Energy,CLAIM_AMOUNT_CR,INR 155.98 Crore
+ARB-IND-2023-045,Power & Energy,COUNTERCLAIM_CR,INR 8.99 Crore
+ARB-IND-2023-045,Power & Energy,AWARD_AMOUNT_CR,INR 107.74 Crore
+ARB-IND-2023-045,Power & Energy,INTEREST_RATE,12.0%
+ARB-IND-2023-045,Power & Energy,DELAY_MONTHS,11 months
+ARB-IND-2023-045,Power & Energy,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,auxiliary consumption
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,flue gas desulfurization
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,performance bank guarantee
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2023-045,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2023-046,Ports & Maritime,CLAIMANT,Van Oord India Dredging
+ARB-IND-2023-046,Ports & Maritime,RESPONDENT,Paradip Port Authority
+ARB-IND-2023-046,Ports & Maritime,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2023-046,Ports & Maritime,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-046,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2023-046,Ports & Maritime,CLAIM_AMOUNT_CR,INR 143.50 Crore
+ARB-IND-2023-046,Ports & Maritime,COUNTERCLAIM_CR,INR 17.47 Crore
+ARB-IND-2023-046,Ports & Maritime,AWARD_AMOUNT_CR,INR 79.38 Crore
+ARB-IND-2023-046,Ports & Maritime,INTEREST_RATE,9.0%
+ARB-IND-2023-046,Ports & Maritime,DELAY_MONTHS,20 months
+ARB-IND-2023-046,Ports & Maritime,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,change of scope
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,marine piling
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,port access road
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,tidal window restriction
+ARB-IND-2023-046,Ports & Maritime,DOMAIN_TERM,vessel turnaround
+ARB-IND-2020-047,Aviation & Airports,CLAIMANT,Nagarjuna Construction Co.
+ARB-IND-2020-047,Aviation & Airports,RESPONDENT,Mumbai International Airport Ltd.
+ARB-IND-2020-047,Aviation & Airports,FORUM,High Court of Karnataka
+ARB-IND-2020-047,Aviation & Airports,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-047,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2020-047,Aviation & Airports,CLAIM_AMOUNT_CR,INR 149.40 Crore
+ARB-IND-2020-047,Aviation & Airports,COUNTERCLAIM_CR,INR 28.11 Crore
+ARB-IND-2020-047,Aviation & Airports,AWARD_AMOUNT_CR,INR 61.68 Crore
+ARB-IND-2020-047,Aviation & Airports,INTEREST_RATE,11.0%
+ARB-IND-2020-047,Aviation & Airports,DELAY_MONTHS,11 months
+ARB-IND-2020-047,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,airfield ground lighting
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,atc tower modernization
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,hvac chiller package
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2020-047,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2020-048,Water & Urban EPC,CLAIMANT,SPML Infra Ltd.
+ARB-IND-2020-048,Water & Urban EPC,RESPONDENT,Delhi Jal Board (DJB)
+ARB-IND-2020-048,Water & Urban EPC,FORUM,High Court of Karnataka
+ARB-IND-2020-048,Water & Urban EPC,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-048,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2020-048,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 43.59 Crore
+ARB-IND-2020-048,Water & Urban EPC,COUNTERCLAIM_CR,INR 8.61 Crore
+ARB-IND-2020-048,Water & Urban EPC,AWARD_AMOUNT_CR,INR 10.63 Crore
+ARB-IND-2020-048,Water & Urban EPC,INTEREST_RATE,9.0%
+ARB-IND-2020-048,Water & Urban EPC,DELAY_MONTHS,19 months
+ARB-IND-2020-048,Water & Urban EPC,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,civil structural audit
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,overhead water tank
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,pipeline laying
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,retention money release
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,stormwater drainage
+ARB-IND-2020-048,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2022-049,Highways & Roads,CLAIMANT,IRB Infrastructure Developers Ltd.
+ARB-IND-2022-049,Highways & Roads,RESPONDENT,Maharashtra State Road Development Corp.
+ARB-IND-2022-049,Highways & Roads,FORUM,Supreme Court of India
+ARB-IND-2022-049,Highways & Roads,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-049,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2022-049,Highways & Roads,CLAIM_AMOUNT_CR,INR 230.11 Crore
+ARB-IND-2022-049,Highways & Roads,COUNTERCLAIM_CR,INR 50.99 Crore
+ARB-IND-2022-049,Highways & Roads,AWARD_AMOUNT_CR,INR 164.02 Crore
+ARB-IND-2022-049,Highways & Roads,INTEREST_RATE,12.0%
+ARB-IND-2022-049,Highways & Roads,DELAY_MONTHS,28 months
+ARB-IND-2022-049,Highways & Roads,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,bitumen escalation
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,bot toll revenue
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,carriageway
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,change in law
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,encumbrance-free land
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,epc highway
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,ham annuity
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,idle machinery
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,prolongation cost
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,provisional completion certificate
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,soil strata variation
+ARB-IND-2022-049,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2017-050,Railways & Metro,CLAIMANT,Afcons Infrastructure Ltd.
+ARB-IND-2017-050,Railways & Metro,RESPONDENT,Delhi Metro Rail Corporation (DMRC)
+ARB-IND-2017-050,Railways & Metro,FORUM,High Court of Bombay
+ARB-IND-2017-050,Railways & Metro,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2017-050,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2017-050,Railways & Metro,CLAIM_AMOUNT_CR,INR 306.06 Crore
+ARB-IND-2017-050,Railways & Metro,COUNTERCLAIM_CR,INR 15.04 Crore
+ARB-IND-2017-050,Railways & Metro,AWARD_AMOUNT_CR,INR 207.62 Crore
+ARB-IND-2017-050,Railways & Metro,INTEREST_RATE,9.5%
+ARB-IND-2017-050,Railways & Metro,DELAY_MONTHS,34 months
+ARB-IND-2017-050,Railways & Metro,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,ballastless track
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,bank guarantee encashment
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,change in law
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,commissioner of railway safety
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,elevated viaduct
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,safety clearance delay
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,site handover
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,sub-contractor claim
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2017-050,Railways & Metro,DOMAIN_TERM,variation order
+ARB-IND-2022-051,Power & Energy,CLAIMANT,KEC International Ltd.
+ARB-IND-2022-051,Power & Energy,RESPONDENT,NTPC Ltd.
+ARB-IND-2022-051,Power & Energy,FORUM,High Court of Delhi
+ARB-IND-2022-051,Power & Energy,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2022-051,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2022-051,Power & Energy,CLAIM_AMOUNT_CR,INR 136.60 Crore
+ARB-IND-2022-051,Power & Energy,COUNTERCLAIM_CR,INR 32.96 Crore
+ARB-IND-2022-051,Power & Energy,AWARD_AMOUNT_CR,INR 81.05 Crore
+ARB-IND-2022-051,Power & Energy,INTEREST_RATE,9.0%
+ARB-IND-2022-051,Power & Energy,DELAY_MONTHS,13 months
+ARB-IND-2022-051,Power & Energy,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,change of scope
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,flue gas desulfurization
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,force majeure
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,force majeure outage
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,grid synchronization
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,hydroelectric headrace
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,performance bank guarantee
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,substation commissioning
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,transformer failure
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2022-051,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2018-052,Ports & Maritime,CLAIMANT,DP World Nhava Sheva
+ARB-IND-2018-052,Ports & Maritime,RESPONDENT,Paradip Port Authority
+ARB-IND-2018-052,Ports & Maritime,FORUM,High Court of Madras
+ARB-IND-2018-052,Ports & Maritime,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-052,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2018-052,Ports & Maritime,CLAIM_AMOUNT_CR,INR 207.80 Crore
+ARB-IND-2018-052,Ports & Maritime,COUNTERCLAIM_CR,INR 45.55 Crore
+ARB-IND-2018-052,Ports & Maritime,AWARD_AMOUNT_CR,INR 73.62 Crore
+ARB-IND-2018-052,Ports & Maritime,INTEREST_RATE,9.5%
+ARB-IND-2018-052,Ports & Maritime,DELAY_MONTHS,29 months
+ARB-IND-2018-052,Ports & Maritime,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,breakwater armor
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,cargo handling crane
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,coastal regulation zone
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,quay wall construction
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,royalty revenue share
+ARB-IND-2018-052,Ports & Maritime,DOMAIN_TERM,vessel turnaround
+ARB-IND-2020-053,Aviation & Airports,CLAIMANT,Nagarjuna Construction Co.
+ARB-IND-2020-053,Aviation & Airports,RESPONDENT,Mumbai International Airport Ltd.
+ARB-IND-2020-053,Aviation & Airports,FORUM,High Court of Madras
+ARB-IND-2020-053,Aviation & Airports,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-053,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2020-053,Aviation & Airports,CLAIM_AMOUNT_CR,INR 178.44 Crore
+ARB-IND-2020-053,Aviation & Airports,COUNTERCLAIM_CR,INR 26.14 Crore
+ARB-IND-2020-053,Aviation & Airports,AWARD_AMOUNT_CR,INR 92.80 Crore
+ARB-IND-2020-053,Aviation & Airports,INTEREST_RATE,12.0%
+ARB-IND-2020-053,Aviation & Airports,DELAY_MONTHS,42 months
+ARB-IND-2020-053,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,aera tariff determination
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,atc tower modernization
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,baggage handling system
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,defect liability period
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,design-build-operate
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,radar calibration
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,revenue share concession
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2020-053,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2018-054,Water & Urban EPC,CLAIMANT,SPML Infra Ltd.
+ARB-IND-2018-054,Water & Urban EPC,RESPONDENT,UP Jal Nigam
+ARB-IND-2018-054,Water & Urban EPC,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2018-054,Water & Urban EPC,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-054,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2018-054,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 133.91 Crore
+ARB-IND-2018-054,Water & Urban EPC,COUNTERCLAIM_CR,INR 32.44 Crore
+ARB-IND-2018-054,Water & Urban EPC,AWARD_AMOUNT_CR,INR 66.81 Crore
+ARB-IND-2018-054,Water & Urban EPC,INTEREST_RATE,10.0%
+ARB-IND-2018-054,Water & Urban EPC,DELAY_MONTHS,16 months
+ARB-IND-2018-054,Water & Urban EPC,CLAUSE_TYPE,Change Of Scope & Variation
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,canal lining
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,change of scope
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,hydro-testing pressure
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,membrane filtration
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,operation and maintenance
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,raw water intake
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,smart water metering
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,stormwater drainage
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2018-054,Water & Urban EPC,DOMAIN_TERM,utility relocation
+ARB-IND-2023-055,Highways & Roads,CLAIMANT,Dilip Buildcon Ltd.
+ARB-IND-2023-055,Highways & Roads,RESPONDENT,National Highways Authority of India (NHAI)
+ARB-IND-2023-055,Highways & Roads,FORUM,High Court of Delhi
+ARB-IND-2023-055,Highways & Roads,STATUTE,"Section 31(7), Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-055,Highways & Roads,SECTOR,Highways & Roads
+ARB-IND-2023-055,Highways & Roads,CLAIM_AMOUNT_CR,INR 113.65 Crore
+ARB-IND-2023-055,Highways & Roads,COUNTERCLAIM_CR,INR 29.34 Crore
+ARB-IND-2023-055,Highways & Roads,AWARD_AMOUNT_CR,INR 67.47 Crore
+ARB-IND-2023-055,Highways & Roads,INTEREST_RATE,10.5%
+ARB-IND-2023-055,Highways & Roads,DELAY_MONTHS,42 months
+ARB-IND-2023-055,Highways & Roads,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,carriageway
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,change of scope
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,epc highway
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,extension of time
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,flyover substructure
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,force majeure
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,four-laning
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,independent engineer
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,land acquisition delay
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,overhead recovery
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,provisional completion certificate
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,right of way
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,section 34 challenge
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,toll plaza
+ARB-IND-2023-055,Highways & Roads,DOMAIN_TERM,utility shifting
+ARB-IND-2023-056,Railways & Metro,CLAIMANT,NCC Ltd.
+ARB-IND-2023-056,Railways & Metro,RESPONDENT,Delhi Metro Rail Corporation (DMRC)
+ARB-IND-2023-056,Railways & Metro,FORUM,High Court of Karnataka
+ARB-IND-2023-056,Railways & Metro,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2023-056,Railways & Metro,SECTOR,Railways & Metro
+ARB-IND-2023-056,Railways & Metro,CLAIM_AMOUNT_CR,INR 135.81 Crore
+ARB-IND-2023-056,Railways & Metro,COUNTERCLAIM_CR,INR 11.70 Crore
+ARB-IND-2023-056,Railways & Metro,AWARD_AMOUNT_CR,INR 44.36 Crore
+ARB-IND-2023-056,Railways & Metro,INTEREST_RATE,10.5%
+ARB-IND-2023-056,Railways & Metro,DELAY_MONTHS,42 months
+ARB-IND-2023-056,Railways & Metro,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,arbitral tribunal award
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,commissioner of railway safety
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,dewatering cost
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,dmrc general conditions
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,electrification ohe
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,elevated viaduct
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,geotechnical stratum
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,independent engineer
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,liquidated damages waiver
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,metro depot
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,pendent lite interest
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,price variation clause
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,rolling stock interface
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,signaling and telecom
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,track doubling
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,tunnel boring machine
+ARB-IND-2023-056,Railways & Metro,DOMAIN_TERM,underground station
+ARB-IND-2020-057,Power & Energy,CLAIMANT,BHEL Industrial Systems
+ARB-IND-2020-057,Power & Energy,RESPONDENT,Solar Energy Corp. of India (SECI)
+ARB-IND-2020-057,Power & Energy,FORUM,"Commercial Court, Ahmedabad"
+ARB-IND-2020-057,Power & Energy,STATUTE,"Section 37, Arbitration and Conciliation Act, 1996"
+ARB-IND-2020-057,Power & Energy,SECTOR,Power & Energy
+ARB-IND-2020-057,Power & Energy,CLAIM_AMOUNT_CR,INR 201.13 Crore
+ARB-IND-2020-057,Power & Energy,COUNTERCLAIM_CR,INR 41.53 Crore
+ARB-IND-2020-057,Power & Energy,AWARD_AMOUNT_CR,INR 136.59 Crore
+ARB-IND-2020-057,Power & Energy,INTEREST_RATE,12.0%
+ARB-IND-2020-057,Power & Energy,DELAY_MONTHS,32 months
+ARB-IND-2020-057,Power & Energy,CLAUSE_TYPE,Price Escalation & Change In Law
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,boiler turbine generator
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,capacity utilization factor
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,change in law
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,coal linkage disruption
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,commissioning milestone
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,deemed generation
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,delayed payment surcharge
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,epc turnkey package
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,independent engineer
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,module price surge
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,performance bank guarantee
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,safeguard duty
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,solar ppa tariff
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,transformer failure
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,transmission corridor
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,transmission tower
+ARB-IND-2020-057,Power & Energy,DOMAIN_TERM,wind farm curtailment
+ARB-IND-2024-058,Ports & Maritime,CLAIMANT,Adani Ports Terminal JV
+ARB-IND-2024-058,Ports & Maritime,RESPONDENT,Paradip Port Authority
+ARB-IND-2024-058,Ports & Maritime,FORUM,High Court of Delhi
+ARB-IND-2024-058,Ports & Maritime,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2024-058,Ports & Maritime,SECTOR,Ports & Maritime
+ARB-IND-2024-058,Ports & Maritime,CLAIM_AMOUNT_CR,INR 135.04 Crore
+ARB-IND-2024-058,Ports & Maritime,COUNTERCLAIM_CR,INR 10.85 Crore
+ARB-IND-2024-058,Ports & Maritime,AWARD_AMOUNT_CR,INR 68.46 Crore
+ARB-IND-2024-058,Ports & Maritime,INTEREST_RATE,11.0%
+ARB-IND-2024-058,Ports & Maritime,DELAY_MONTHS,10 months
+ARB-IND-2024-058,Ports & Maritime,CLAUSE_TYPE,Prolongation & Idle Resources
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,berthing delay
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,capital dredging
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,channel siltation
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,concession agreement termination
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,container terminal berth
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,demurrage claim
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,draft depth shortfall
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,harbor basin
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,hydrographic survey
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,independent engineer
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,jetty fender system
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,marine insurance claim
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,minimum guaranteed throughput
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,offshore pipeline
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,port tariff authority
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,reclamation backfill
+ARB-IND-2024-058,Ports & Maritime,DOMAIN_TERM,vessel turnaround
+ARB-IND-2019-059,Aviation & Airports,CLAIMANT,Shapoorji Pallonji Engineering
+ARB-IND-2019-059,Aviation & Airports,RESPONDENT,Mumbai International Airport Ltd.
+ARB-IND-2019-059,Aviation & Airports,FORUM,High Court of Karnataka
+ARB-IND-2019-059,Aviation & Airports,STATUTE,"Section 11(6), Arbitration and Conciliation Act, 1996"
+ARB-IND-2019-059,Aviation & Airports,SECTOR,Aviation & Airports
+ARB-IND-2019-059,Aviation & Airports,CLAIM_AMOUNT_CR,INR 89.48 Crore
+ARB-IND-2019-059,Aviation & Airports,COUNTERCLAIM_CR,INR 5.71 Crore
+ARB-IND-2019-059,Aviation & Airports,AWARD_AMOUNT_CR,INR 45.44 Crore
+ARB-IND-2019-059,Aviation & Airports,INTEREST_RATE,8.0%
+ARB-IND-2019-059,Aviation & Airports,DELAY_MONTHS,25 months
+ARB-IND-2019-059,Aviation & Airports,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,aero-bridge installation
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,apron taxiway
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,aviation security clearance
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,commercial space lease
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,escalation index
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,fire fighting compliance
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,force majeure
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,hangar steel truss
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,independent engineer
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,milestone liquidated damages
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,night curfew window
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,pandemic force majeure
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,revenue share concession
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,runway resurfacing
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,runway strip grading
+ARB-IND-2019-059,Aviation & Airports,DOMAIN_TERM,terminal building expansion
+ARB-IND-2018-060,Water & Urban EPC,CLAIMANT,Suez India Water Technologies
+ARB-IND-2018-060,Water & Urban EPC,RESPONDENT,Chennai Metro Water Supply
+ARB-IND-2018-060,Water & Urban EPC,FORUM,High Court of Karnataka
+ARB-IND-2018-060,Water & Urban EPC,STATUTE,"Section 34, Arbitration and Conciliation Act, 1996"
+ARB-IND-2018-060,Water & Urban EPC,SECTOR,Water & Urban EPC
+ARB-IND-2018-060,Water & Urban EPC,CLAIM_AMOUNT_CR,INR 125.60 Crore
+ARB-IND-2018-060,Water & Urban EPC,COUNTERCLAIM_CR,INR 10.56 Crore
+ARB-IND-2018-060,Water & Urban EPC,AWARD_AMOUNT_CR,INR 84.54 Crore
+ARB-IND-2018-060,Water & Urban EPC,INTEREST_RATE,11.0%
+ARB-IND-2018-060,Water & Urban EPC,DELAY_MONTHS,9 months
+ARB-IND-2018-060,Water & Urban EPC,CLAUSE_TYPE,Wrongful Termination & Liquidated Damages
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,billing certification delay
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,borewell dewatering
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,effluent discharge norm
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,environmental clearance
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,escalation in steel
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,independent engineer
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,micro-tunneling sewer
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,monsoon suspension
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,municipal right of way
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,overhead water tank
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,pipeline laying
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,pumping station
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,raw water intake
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,retention money release
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,right of way
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,sewage treatment plant
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,urban flood mitigation
+ARB-IND-2018-060,Water & Urban EPC,DOMAIN_TERM,water desalination unit
